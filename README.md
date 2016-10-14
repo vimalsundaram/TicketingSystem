@@ -13,7 +13,7 @@
 
 # To modify the settings use test.properties 
 # Run using following command without any command line param
- java -cp /Users/visundaram/tools/java/ticketing/TicketingSystem/target/TicketingSystem-0.0.1-SNAPSHOT.jar com.ticketing.TicketingSystem.App 2>&1 | tee logs/log.txt
+ java -cp TicketingSystem/target/TicketingSystem-0.0.1-SNAPSHOT.jar com.ticketing.TicketingSystem.App 2>&1 | tee logs/log.txt
 
 #Sample log file
 java/ticketing/TicketingSystem/logs/logs.txt
